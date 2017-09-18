@@ -1,3 +1,3 @@
 # BlackGlasses
 
-An awesome RCOS(rcos.io) Project!
+An awesome SDD Project!
